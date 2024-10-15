@@ -1,2 +1,13 @@
 streamlit
-openai
+sentence-transformers>=2.2.2
+langchain>=0.0.88
+langchain-anthropic>=0.0.5
+streamlit-chat>=0.0.1
+huggingface-hub>=0.25.2,<0.26.0
+torch>=2.0.0
+chromadb==0.3.21
+anthropic==0.36.0
+numpy>=1.26.0,<2.0.0
+pandas==2.2.3
+langchain-community==0.0.28
+langchain-anthropic>=0.0.28
